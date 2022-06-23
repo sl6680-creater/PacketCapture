@@ -2,8 +2,8 @@
 基于Java的网络抓包协议分析程序
 
 ## Requirement
- - 1.Winpcap或Npcap(推荐)
- - 2.JNetPcpa.jar
+ - 1.安装Winpcap或Npcap(推荐)
+ - 2.下载导入JNetPcpa.jar
 
 <hr>
 
